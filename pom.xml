@@ -40,7 +40,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>testSpringMvc3</finalName>
+		<finalName>SpringMvcLoadProperties</finalName>
 
 		<plugins>
 			<plugin>
